@@ -1,0 +1,4 @@
+sales_order_id,item_number,item_id,material,description,quantity,net_price,open_sales_value,order_status,pushout_comments,production_order,item_category,est_ship_date,late,audit_notes
+1001,10,1001-10,MAT001,Widget A,5,10.0,50.0,Manufacturing,,PRD001,Standard,2024-06-10,false,
+1001,20,1001-20,MAT002,Widget B,2,15.0,30.0,Planning,Delayed vendor,PRD002,Spare Part,2024-06-05,true,Need expedite
+1002,10,1002-10,MAT003,Gadget X,1,25.0,25.0,Planning,,PRD003,Standard,2024-06-12,false,
